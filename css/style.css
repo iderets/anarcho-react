@@ -1,0 +1,23 @@
+.img-rounded {
+    border-radius: 15%;
+}
+
+.content-wrapper-no-sidebar {
+    margin-left: 0;
+}
+
+.widget-user .widget-user-header {
+    height: 125px;
+}
+
+.widget-user .widget-user-image {
+    top: 70px;
+}
+
+.widget-user .box-footer {
+    padding-top: 35px;
+}
+
+.widget-user small{
+    color: inherit;
+}
